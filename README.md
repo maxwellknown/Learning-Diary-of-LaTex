@@ -35,6 +35,8 @@ https://ctan.org/mirrors
 
 具体操作为单击右键，选择Download with Free Download Manager，如下图所示
 
-![image-20210524232441137](C:\Users\86136\AppData\Roaming\Typora\typora-user-images\image-20210524232441137.png)
+![Texlive-Tshinghua]([Learning-Diary-of-LaTex/Texlive-Tshinghua.png at main · maxwellknown/Learning-Diary-of-LaTex (github.com)](https://github.com/maxwellknown/Learning-Diary-of-LaTex/blob/main/pic/Texlive-Tshinghua.png))
+
+下载完成后，可利用md5校验工具等校验iso镜像文件，确保下载的完整性
 
 ### Linux
