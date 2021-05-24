@@ -16,7 +16,7 @@ LaTex发行版:TexLive
 
 阅读器：[Sumatra PDF ]([Download Sumatra PDF - a free reader (sumatrapdfreader.org)](https://www.sumatrapdfreader.org/download-free-pdf-viewer))
 
-下载工具：[Google Chrome]([Google Chrome 网络浏览器](https://www.google.com/intl/zh-CN/chrome/)) / [Microsoft Edge](https://www.microsoft.com/en-us/edge) / [Mozila Firefox]([下载 Firefox 浏览器 — 快速、私密、免费 — 来自 Mozilla](https://www.mozilla.org/zh-CN/firefox/new/)) + [Free Download Manager]([Free Download Manager - 從網路下載任何東西](https://www.freedownloadmanager.org/zh/)) + Free Download Manager extension
+下载工具：[Google Chrome]([Google Chrome 网络浏览器](https://www.google.com/intl/zh-CN/chrome/)) / [Microsoft Edge](https://www.microsoft.com/en-us/edge) / [Mozila Firefox]([下载 Firefox 浏览器 — 快速、私密、免费 — 来自 Mozilla](https://www.mozilla.org/zh-CN/firefox/new/)) + [Free Download Manager]([Free Download Manager - 從網路下載任何東西](https://www.freedownloadmanager.org/zh/)) + [Free Download Manager extension](https://chrome.google.com/webstore/detail/free-download-manager/ahmpjcflkgiildlgicmcieglgoilbfdp)
 
 #### 安装步骤如下
 
