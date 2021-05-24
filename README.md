@@ -20,7 +20,7 @@ LaTex发行版:TexLive
 
 #### 安装步骤如下
 
-1.下载TexLive
+###### 1.下载TexLive
 
 TexLive主页：https://www.tug.org/texlive/
 
