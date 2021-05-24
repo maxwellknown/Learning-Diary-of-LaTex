@@ -37,6 +37,8 @@ https://ctan.org/mirrors
 
 ![Texlive-Tshinghua]([Learning-Diary-of-LaTex/Texlive-Tshinghua.png at main · maxwellknown/Learning-Diary-of-LaTex (github.com)](https://github.com/maxwellknown/Learning-Diary-of-LaTex/blob/main/pic/Texlive-Tshinghua.png))
 
+![Texlive-Tshinghua](https://github.com/maxwellknown/Learning-Diary-of-LaTex/raw/main/pic/Texlive-Tshinghua.png))
+
 下载完成后，可利用md5校验工具等校验iso镜像文件，确保下载的完整性
 
 ### Linux
