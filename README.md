@@ -20,7 +20,7 @@ LaTex发行版:TexLive
 
 #### 安装步骤如下
 
-###### 1.下载TexLive
+##### 1.下载TexLive
 
 TexLive主页：https://www.tug.org/texlive/
 
@@ -38,5 +38,10 @@ https://ctan.org/mirrors
 ![Texlive-Tshinghua](https://github.com/maxwellknown/Learning-Diary-of-LaTex/raw/main/pic/Texlive-Tshinghua.png "TexLive Tshinghua-mirroor")
 
 下载完成后，可利用md5校验工具等校验iso镜像文件，确保下载的完整性
+
+##### 2.安装TexLive
+默认安装即可，注意将Texlive安装至英文目录下，且将安装路径添加至环境变量（如何添加环境变量）
+安装完成后，打开cmd，输入以下命令
+`tex -version`检查，若返回版本信息，即安装成功
 
 ### Linux
